@@ -19,7 +19,7 @@ This repository is one of project deliverables for [project-sandwich-man](https:
     + [Multi-goal Task Approach](#multi-goal-task-approach)
     + [Approach from Relational RL](#approach-from-relational-rl)
     + [Good Environment to Start](#good-environment-to-start)
-    + [Other Interesting Works](#other-interesting-works)
+    + [Further More](#further-more)
 
 </br>
 
@@ -71,7 +71,7 @@ This repository is one of project deliverables for [project-sandwich-man](https:
 
 ---
 
-### Other Interesting Works
+### Further More
 
 - [IKEA Furniture Assembly Environment for Long-Horizon Complex Manipulation Tasks](https://arxiv.org/pdf/1911.07246.pdf), (https://clvrai.github.io/furniture)
 - [Learning to guide task and motion planning using score-space representation](https://journals.sagepub.com/doi/pdf/10.1177/0278364919848837)

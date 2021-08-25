@@ -1,4 +1,4 @@
-# Awesome-block-stacking-manipulation
+# Awesome-multi-step-manipulation
 
 >  Inspired by the [awesome](https://github.com/sindresorhus/awesome) list and [awesome-long-horizon-goal-reaching](https://github.com/Mehooz/awesome-long-horizon-goal-reaching).
 

@@ -55,6 +55,8 @@ This repository is one of project deliverables for [project-sandwich-man](https:
 
 - [Hindsight Experience Replay](https://arxiv.org/abs/1707.01495)
 - [CHER: Curriculum-guided Hindsight Experience Replay ](https://openreview.net/forum?id=BJed9HHeIr), code: https://github.com/mengf1/CHER
+
+### Exploration by Curiosity
 - [CURIOUS: Intrinsically Motivated Modular Multi-Goal Reinforcement Learning](https://arxiv.org/pdf/1810.06284.pdf)
 - [Curious hierarchical actor-critic reinforcement learning](https://arxiv.org/abs/2005.03420)
 
